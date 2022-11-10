@@ -1,0 +1,2 @@
+# 10400F-aSRockB460m-pro4-AMD5700XT
+efi
