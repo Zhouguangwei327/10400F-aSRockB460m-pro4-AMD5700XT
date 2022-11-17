@@ -1,2 +1,2 @@
-# 10400F-aSRockB460m-pro4-AMD5700XT
-efi
+# 10400F-ASRockB460m-pro4-AMD5700XT
+Monterey 12.3.1
