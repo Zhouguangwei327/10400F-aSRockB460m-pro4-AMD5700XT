@@ -1,2 +1,2 @@
 # 10400F-ASRockB460m-pro4-AMD5700XT
-Monterey 12.3.1
+Ventura 13.1
